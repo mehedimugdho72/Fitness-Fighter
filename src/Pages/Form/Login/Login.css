@@ -1,0 +1,38 @@
+.login-title{
+    margin-bottom: 1rem;
+}
+.login-from{
+    width: 50%;
+    margin: 0 auto;
+    padding: 1rem;
+    border: 1px solid gray;
+    border-radius: 10px;
+    
+}
+.login-container{
+    margin-bottom: 5rem;
+    margin-top: 1rem;
+   
+}
+.login-title{
+    margin-top: 2rem ;
+    text-align: center;
+}
+.account{
+    text-align: center;
+    margin-top: 5px;
+}
+.submit-btn{
+    width: 100%;
+    /* background-color: #ed563b; */
+    border: none;
+    font-weight: 600;
+    padding: 8px;
+}
+
+@media only screen and (max-width: 570px) {
+    .login-from{
+        width: 100%;
+        margin: 5px;
+    }
+   }

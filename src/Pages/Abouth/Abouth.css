@@ -1,0 +1,23 @@
+.my-pic {
+    height: 8rem;
+    width: 7rem;
+}
+.name{
+    color: #ed563b;
+}
+.myGoal{
+    color: grey;
+}
+
+@media only screen and (max-width: 570px) {
+    .blogs-container {
+        width: 100%;
+    }
+
+    .myGoal{
+        font-size: xx-small;
+    }
+    .name{
+        font-size: medium;
+    }
+}

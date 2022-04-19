@@ -1,0 +1,50 @@
+.horizontal-style {
+    display: flex;
+    align-items: center;
+}
+
+.line {
+    height: 1px;
+    width: 25%;
+    background-color: lightgray;
+}
+
+.or {
+    padding: 1rem;
+    margin-top: 8px;
+}
+
+.Social-container {
+    display: flex;
+    justify-content: center;
+    margin-right: 1rem;
+
+}
+
+.third-party-google-btn {
+    padding: 5px 6rem;
+    margin-top: 10px;
+    font-weight: 600;
+    border: 1px solid rgb(43, 128, 226);
+    border-radius: 10px;
+    background-color: white;
+}
+
+.third-party-github-btn {
+    padding: 5px 6rem;
+    margin-top: 10px;
+    font-weight: 600;
+    border: 0;
+    border-radius: 10px;
+    color: white;
+    background-color: rgb(36, 35, 35);
+}
+
+@media only screen and (max-width: 570px) {
+    .third-party-github-btn {
+        padding: 1px 6rem;
+        width: 100%;
+    }
+
+    .third-party-google-btn {}
+}

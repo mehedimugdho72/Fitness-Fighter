@@ -1,0 +1,44 @@
+.footer-container{
+    background-color: rgba(30, 39, 51, 0.8);
+    margin-top: 1rem;
+    padding: 0.8rem;
+}
+
+.footer-description{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    text-align: center;
+
+}
+.footer-header{
+    color: #ed563b;
+    margin-top: 2%;
+}
+.footer-description p{
+    color: white;
+    margin: 0
+}
+.copyright{
+    color: white;
+    text-align: center;
+     
+}
+
+@media only screen and (max-width: 570px) {
+
+    .footer-header{
+        font-size: small;
+    }
+    .footer-header p{
+        font-size: small;
+    }
+    .details{
+        font-size: xx-small;
+    }
+    .copyright{
+        font-size: xx-small;
+    }
+    .footer-header{
+        font-size: xx-small;
+    }
+}

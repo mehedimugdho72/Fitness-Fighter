@@ -1,0 +1,10 @@
+.notFoundContainer{
+    text-align: center;
+    margin-bottom: 5%;
+}
+.notFoundContainer h1{
+    color: #ed563b;
+}
+.notFound-img{
+    text-align: center;
+}
