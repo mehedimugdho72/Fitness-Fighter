@@ -1,0 +1,50 @@
+[
+    {
+      "id": "1",
+      "picture": "https://images.unsplash.com/photo-1546483875-ad9014c88eba?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=782&q=80",
+      "price": 100,
+      "name": "Strength Training",
+      "gender": "female",
+      "Description":"Build your strength and get those extra few pounds in before the swimsuit season. Come train under expert personal trainers only at Power Zone."
+    },
+    {
+      "id": "2",
+      "picture": "https://images.unsplash.com/photo-1599058917212-d750089bc07e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80",
+      "price": 150,
+      "name": "Weight Loss",
+      "gender": "male",
+      "Description":"Lose extra weight and get in shape with expert personal trainers and top notch fitness equipments only at Mutants Gym, the best gym in Power Zone."
+    },
+    {
+      "id": "3",
+      "picture": "https://images.unsplash.com/photo-1605296867304-46d5465a13f1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "price": 100,
+      "name": "Endurance Training",
+      "gender": "male",
+      "Description":"Power Zone helps develop the body's respiratory capabilities, workout with your friends while listening to trendy tune at one of the hottest gyms in Power Zone."
+    },
+    {
+      "id": "4",
+      "picture": "https://images.unsplash.com/photo-1616279967983-ec413476e824?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=852&q=80",
+      "price": 150,
+      "name": "Cardio Training",
+      "gender": "female",
+      "Description":"Work on your abs and core with state-of-the-art equipments specially brought to you by the best gym in Power Zone."
+    },
+    {
+      "id": "5",
+      "picture": "https://cdn.pixabay.com/photo/2017/03/13/20/41/tyre-flipping-2141109_960_720.jpg",
+      "price": 150,
+      "name": "Crossfit Training",
+      "gender": "male",
+      "Description":"Train with the best of the best in an intense workout session under the expert guidance of our personal trainers only at Power Zone"
+    },
+    {
+      "id": "5",
+      "picture": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "price": 200,
+      "name": "Yoga",
+      "gender": "male",
+      "Description":"Yoga is a mind and body practice. Various styles of yoga combine physical postures, breathing techniques, and  relaxation."
+    }
+  ]
