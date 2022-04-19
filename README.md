@@ -4,7 +4,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
-# Project Name:- Health Coach.
+# Project Name:- Fitness-Fighter.
 ## [Netlify live server link]().
 
 ## Project Description:-
