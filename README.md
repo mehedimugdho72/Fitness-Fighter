@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 # Project Name:- Fitness-Fighter.
-## [Netlify live server link]().
+## [Firebase live server link](https://fitness-fighter-c557a.firebaseapp.com/).
 
 ## Project Description:-
 * This is basically A Gym website
